@@ -61,8 +61,8 @@ class OnlineShoppingSystem:
     def connect_db(self):
         return mysql.connector.connect(
             host="localhost", 
-            user="admin",  
-            password="yourpassword",  
+            user="root",  
+            password="amruthadb",  
             database="NewOnlineShoppingDB",
         )
 
