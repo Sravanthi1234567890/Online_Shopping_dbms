@@ -32,7 +32,7 @@ The project includes the following tables:
 ## 🛠️ Technologies Used
 
 - MySQL
-- DBMS concepts like joins, foreign keys
+- DBMS concepts like joins,normalization, foreign keys
 - ERD (Entity-Relationship Diagram)
   ![image](https://github.com/user-attachments/assets/01172f52-747b-45dd-8d64-84ec90bb2582)
 
